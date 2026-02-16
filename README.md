@@ -13,6 +13,15 @@ The goal of this project is to build a recommendation system that suggests produ
 
 ---
 
+## 📥 Dataset Access
+Due to GitHub file size limitations, the dataset is not included in this repository.
+
+You can download the dataset from:
+- Online Retail Dataset (UCI / Kaggle)
+
+After downloading, place the CSV file inside a `data/` folder before running the notebook.
+
+
 ## 🧹 Data Cleaning
 - Removed transactions with missing CustomerID
 - Excluded cancelled invoices
@@ -47,3 +56,4 @@ The goal of this project is to build a recommendation system that suggests produ
 - Item-based collaborative filtering
 - Matrix factorization (SVD)
 - Streamlit web app for real-time recommendations
+
