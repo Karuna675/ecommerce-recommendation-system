@@ -21,6 +21,7 @@ You can download the dataset from:
 
 After downloading, place the CSV file inside a `data/` folder before running the notebook.
 
+---
 
 ## 🧹 Data Cleaning
 - Removed transactions with missing CustomerID
@@ -56,4 +57,5 @@ After downloading, place the CSV file inside a `data/` folder before running the
 - Item-based collaborative filtering
 - Matrix factorization (SVD)
 - Streamlit web app for real-time recommendations
+
 
